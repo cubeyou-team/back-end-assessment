@@ -29,5 +29,5 @@ Our goal is to find answers to these questions:
 
 - Can you set up a project from scratch ? (methodologies / tools / maintainability of the code are aspects that we will take much
 into consideration).
-- Can you design a REST api that is conform with the standard and easy to use
+- Can you design a REST api that is conform with the standard and easy to use ?
 - Can your write code that is clean, readable and efficent?
