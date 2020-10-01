@@ -15,7 +15,7 @@ Endpoints needed to complete the assessment:
 - Design a SQL database (with SQLLite)
 - Populate the database with fake data
 - Implements (with Node.js or Python) 2 REST API that meet the specified requirements
-- Implements Automated Tests (optionaks)
+- Implements Automated Tests (optional)
 
 ## Submission
 
